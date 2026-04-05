@@ -12,7 +12,7 @@ Pixel-perfect implementation based on a Figma design file for a dashboard style 
 - CSS
 
 ## Available at the following web address
-https://ashatskyy.github.io/dine-portfolio/
+https://ashatskyy.github.io/bento-grid/
 
 ## Author
 Alexander Shatsky
